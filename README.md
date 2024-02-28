@@ -1,7 +1,10 @@
 # Introduction 
 Youtube Gameplay Video , only been able to record for VR and Android/IOS. Hololens video gameplay coming soon : https://youtu.be/ycfLXDMauZ0
+
+
 This is a project that I had to work on during a 3-month internship. 
 An Air Hockey XR game . Meaning that the game can be played on Android , IOS devices as well as Hololens 2 , Hololens 1 , Oculus Quest 2 and many more XR Devices
+
 
 You can play against a dummy AI for now. A Smarter and a more unpredictible AI is to be implemented in the future. 
 All assets present in the game (except one) are modeled by me. 
