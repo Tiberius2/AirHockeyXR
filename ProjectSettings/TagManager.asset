@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickupObject
+  - AIGoal
+  - PlayerGoal
+  - Puck
+  - Managers
+  - EdgeCollider
+  - AiStriker
+  - PlayerStriker
+  - Striker
+  - HololensHand
+  - TimerCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PlacedObject
+  - TableEdges
+  - SpatialMesh
+  - PuckLayer
+  - AcceptedColliderLayer
+  - StrikerLayer
+  - NoBounceLayer
+  - Grabbable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
