@@ -1,20 +1,15 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Youtube Gameplay Video , only been able to record for VR and Android/IOS. Hololens video gameplay coming soon : 
+This is a project that I had to work on during a 3-month internship. 
+An Air Hockey XR game . Meaning that the game can be played on Android , IOS devices as well as Hololens 2 , Hololens 1 , Oculus Quest 2 and many more XR Devices
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+You can play against a dummy AI for now. A Smarter and a more unpredictible AI is to be implemented in the future. 
+All assets present in the game (except one) are modeled by me. 
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+SDKs used : XR Interaction Toolkit, ARFoundation, ARKit, ARCore,  OpenXR, MRTK3 from Microsoft . Tried Oculus Integration but went back to OpenXR for compatible platforms extensibility
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+With the help of mentors and insightful advices from people I worked with during the internship, I managed to have very clean, decoupled code, using design patterns such as Composition, Singletons for managers, etc
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Multiplayer functionality coming soon using Photon Fusion (I hope) 
+
+Will provide APK's and executable packages in the future for installing and trying the game on different plaforms 
